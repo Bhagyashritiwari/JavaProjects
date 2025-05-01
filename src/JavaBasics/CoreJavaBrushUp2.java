@@ -25,9 +25,9 @@ public class CoreJavaBrushUp2 {
 
         System.out.println("**********");
 
-        for (int i = 0; i < arr2.length; i++) {
-            if (arr2[i] % 2 != 0)
-                System.out.println(arr2[i]);
+        for (int j : arr2) {
+            if (j % 2 != 0)
+                System.out.println(j);
         }
 
         // ArrayList
@@ -39,7 +39,7 @@ public class CoreJavaBrushUp2 {
         a.add("academy");
         a.add("selenium");
         a.add("812");
-        a.add(0, "nisar");
+        a.add(0, "Bhagyashri");
         System.out.println(a.get(3));
         a.remove(3);
         a.indexOf("shetty");
