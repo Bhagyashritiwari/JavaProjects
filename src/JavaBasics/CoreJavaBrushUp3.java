@@ -6,8 +6,8 @@ public class CoreJavaBrushUp3 {
         // TODO Auto-generated method stub
 
         // string literal (string is an object that represents sequence of characters)
-        String n1 = "nisar ahmed";
-        String n2 = "nisar ahmed";
+        String n1 = "Bhagyashri";
+        String n2 = "Bhagyashri";
         System.out.println(n1);
         System.out.println(n2);
 

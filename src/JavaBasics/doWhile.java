@@ -12,7 +12,7 @@ public class doWhile {
             j++;
         } while (j < 30);
 
-        // Real scenerio for DoWhileLoop
+        // Real scenario for DoWhileLoop
 
         System.out.println("**********");
 
